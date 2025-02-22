@@ -33,12 +33,12 @@
 ### 🏆 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DobriyalKaran&show_icons=true&theme=dark" height="160px"/>
-  <img src="https://streak-stats.demolab.com/?user=DobriyalKaran&theme=dark" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DobriyalKaran&show_icons=true&theme=dracula" height="160px"/>
+  <img src="https://streak-stats.demolab.com/?user=DobriyalKaran&theme=dracula" height="160px"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DobriyalKaran&layout=compact&theme=dark" height="120px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DobriyalKaran&layout=compact&theme=dracula" height="120px"/>
 </div>
 
 ---
