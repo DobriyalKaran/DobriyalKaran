@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Karan Dobriyal 👋</h1>
 
 <p align="center">
-  <b>Software Engineer | A Specialist | System Design Enthusiast</b>  
+  <b>Software Engineer | A Specialist | System Design Enthusiast</b>   
 </p>
 
 ---
