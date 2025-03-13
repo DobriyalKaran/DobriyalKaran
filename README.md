@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 About Me  
+### 🚀 About Me   
 - 🔹 Software Engineer with expertise in **Java, Spring Boot, Angular, and System Design**.  
 - 🔹 Focused on **Scalability, Distributed Systems, and High-Performance Applications**.  
 - 🔹 Passionate about **Microservices, Kafka, and Cloud Computing (AWS)**.  
